@@ -44,13 +44,13 @@ jobs:
         if: always()
         with:
           name: test-logs
-          path: ./com.io7m.SipHash.tests/target/surefire-reports
+          path: ./com.io7m.io.whitfin.siphash.tests/target/surefire-reports
 
       - name: Coverage
         uses: codecov/codecov-action@v5.4.2
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          files: com.io7m.SipHash.tests/target/site/jacoco-aggregate/jacoco.xml
+          files: com.io7m.io.whitfin.siphash.tests/target/site/jacoco-aggregate/jacoco.xml
 
       - name: Log in to Quay.io.
         uses: redhat-actions/podman-login@v1.7

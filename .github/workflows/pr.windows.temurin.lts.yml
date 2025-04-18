@@ -44,7 +44,7 @@ jobs:
         if: always()
         with:
           name: test-logs
-          path: ./com.io7m.SipHash.tests/target/surefire-reports
+          path: ./com.io7m.io.whitfin.siphash.tests/target/surefire-reports
 
 
 

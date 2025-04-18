@@ -9,7 +9,7 @@ name: deploy.linux.temurin.lts
 
 on:
   push:
-    tags: [ com.io7m.SipHash-* ]
+    tags: [ com.io7m.io.whitfin.siphash-* ]
 
 jobs:
   build:
