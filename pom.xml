@@ -12,7 +12,7 @@
         <version>8.4.0</version>
     </parent>
 
-    <groupId>io.whitfin</groupId>
+    <groupId>com.io7m.repackage.io.whitfin</groupId>
     <artifactId>siphash</artifactId>
     <version>2.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
