@@ -13,15 +13,15 @@
     </parent>
 
     <groupId>com.io7m.repackage.io.whitfin</groupId>
-    <artifactId>siphash</artifactId>
+    <artifactId>io.whitfin.siphash</artifactId>
     <version>2.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>SipHash</name>
+    <name>io.whitfin.siphash</name>
     <description>
         Various Java implementations of the SipHash cryptographic hash family.
     </description>
-    <url>https://github.com/whitfin/siphash-java</url>
+    <url>https://github.com/io7m-com/siphash-java</url>
 
     <properties>
         <io7m.api.previousVersion>2.0.1-SNAPSHOT</io7m.api.previousVersion>
@@ -40,9 +40,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:whitfin/siphash-java.git</connection>
-        <developerConnection>scm:git:git@github.com:whitfin/siphash-java.git</developerConnection>
-        <url>git@github.com:whitfin/siphash-java.git</url>
+        <connection>scm:git:git@github.com:io7m-com/siphash-java.git</connection>
+        <developerConnection>scm:git:git@github.com:io7m-com/siphash-java.git</developerConnection>
+        <url>git@github.com:io7m-com/siphash-java.git</url>
     </scm>
 
     <licenses>

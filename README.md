@@ -20,9 +20,9 @@ This library was heavily influenced by [veorq's C implementation](https://github
 
 ```
 <dependency>
-    <groupId>io.whitfin</groupId>
-    <artifactId>siphash</artifactId>
-    <version>2.0</version>
+    <groupId>com.io7m.repackage.io.whitfin</groupId>
+    <artifactId>io.whitfin.siphash</artifactId>
+    <version>2.0.1</version>
 </dependency>
 ```
 
