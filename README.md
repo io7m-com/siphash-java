@@ -1,3 +1,6 @@
+Note: This is a fork of the `siphash-java` repository that publishes a
+Java module descriptor. The sources are otherwise untouched.
+
 # SipHash
 
 [![Build Status](https://travis-ci.org/whitfin/siphash-java.svg?branch=master)](https://travis-ci.org/whitfin/siphash-java) [![Coverage Status](https://coveralls.io/repos/whitfin/siphash-java/badge.svg?branch=master&service=github)](https://coveralls.io/github/whitfin/siphash-java?branch=master)
