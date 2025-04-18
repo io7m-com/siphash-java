@@ -1,5 +1,5 @@
 Note: This is a fork of the `siphash-java` repository that publishes a
-Java module descriptor. The sources are otherwise untouched.
+Java module descriptor and OSGi metadata. The sources are otherwise untouched.
 
 # SipHash
 
