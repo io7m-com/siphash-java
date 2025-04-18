@@ -5,10 +5,10 @@ Java module descriptor. The sources are otherwise untouched.
 
 | JVM | Platform | Status |
 |-----|----------|--------|
-| OpenJDK (Temurin) Current | Linux | [![Build (OpenJDK (Temurin) Current, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/SipHash/main.linux.temurin.current.yml)](https://www.github.com/io7m-com/SipHash/actions?query=workflow%3Amain.linux.temurin.current)|
-| OpenJDK (Temurin) LTS | Linux | [![Build (OpenJDK (Temurin) LTS, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/SipHash/main.linux.temurin.lts.yml)](https://www.github.com/io7m-com/SipHash/actions?query=workflow%3Amain.linux.temurin.lts)|
-| OpenJDK (Temurin) Current | Windows | [![Build (OpenJDK (Temurin) Current, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/SipHash/main.windows.temurin.current.yml)](https://www.github.com/io7m-com/SipHash/actions?query=workflow%3Amain.windows.temurin.current)|
-| OpenJDK (Temurin) LTS | Windows | [![Build (OpenJDK (Temurin) LTS, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/SipHash/main.windows.temurin.lts.yml)](https://www.github.com/io7m-com/SipHash/actions?query=workflow%3Amain.windows.temurin.lts)|
+| OpenJDK (Temurin) Current | Linux | [![Build (OpenJDK (Temurin) Current, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/siphash-java/main.linux.temurin.current.yml)](https://www.github.com/io7m-com/siphash-java/actions?query=workflow%3Amain.linux.temurin.current)|
+| OpenJDK (Temurin) LTS | Linux | [![Build (OpenJDK (Temurin) LTS, Linux)](https://img.shields.io/github/actions/workflow/status/io7m-com/siphash-java/main.linux.temurin.lts.yml)](https://www.github.com/io7m-com/siphash-java/actions?query=workflow%3Amain.linux.temurin.lts)|
+| OpenJDK (Temurin) Current | Windows | [![Build (OpenJDK (Temurin) Current, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/siphash-java/main.windows.temurin.current.yml)](https://www.github.com/io7m-com/siphash-java/actions?query=workflow%3Amain.windows.temurin.current)|
+| OpenJDK (Temurin) LTS | Windows | [![Build (OpenJDK (Temurin) LTS, Windows)](https://img.shields.io/github/actions/workflow/status/io7m-com/siphash-java/main.windows.temurin.lts.yml)](https://www.github.com/io7m-com/siphash-java/actions?query=workflow%3Amain.windows.temurin.lts)|
 
 A Java implementation of the SipHash cryptographic hash family. Supports any variation, although defaults to the widely used SipHash-2-4. This library offers both a zero-allocation implementation, along with a streaming digest.
 
